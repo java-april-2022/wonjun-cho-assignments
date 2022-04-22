@@ -1,0 +1,14 @@
+.container {
+	margin: 40px;
+	padding: 40px;
+	font-family: sans-serif;
+	background-color: pink;
+}
+
+h1 {
+	color: lightpink;
+	margin: 5%;
+}
+.table {
+	background-color: white;
+}
