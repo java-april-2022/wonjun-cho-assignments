@@ -1,0 +1,18 @@
+.container {
+    margin-left: 40%;
+    width: 350px;
+}
+.form-box{
+    border: solid;
+    padding: 30px;
+}
+input, .compliment {
+    border: solid;
+    border-width: 1.5px;
+    display: flex;
+}
+.button {
+    margin-left: 80%;
+    background-color: blue;
+    color: white;
+}

@@ -1,0 +1,11 @@
+.container {
+    margin-left: 40%;
+    width: 350px;
+}
+.box {
+    padding: 30px;
+    background-color: aqua;
+}
+.secondBox {
+    padding: 30px;
+}
